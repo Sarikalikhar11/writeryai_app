@@ -1,0 +1,43 @@
+.header {
+  background-image: url('http://localhost:3000/assets/images/right-header.jpeg'),
+    url('http://localhost:3000/assets/images/bg2.png');
+  background-position: 850px 150px, center;
+  background-repeat: no-repeat;
+  background-size: 500px, cover;
+  border-radius: 30px, none !important;
+  /* width: 100%; */
+  height: max-content;
+  padding-bottom: 90px;
+}
+.nav-link {
+  color: #07c8fd !important;
+}
+.nav .nav-link:hover {
+  /* background-color: rgb(19, 103, 129); */
+  color: #2ecb71 !important;
+  font-weight: 600 !important;
+}
+.hero-section h3 {
+  font-size: 45px;
+  letter-spacing: 0.1rem;
+}
+.hero-section p {
+  font-size: 1.2rem;
+}
+.hero-section img {
+  border-radius: 30px;
+}
+.hero-section button {
+  background-color: #2ecb71 !important;
+  text-transform: capitalize;
+  letter-spacing: 0.2rem;
+}
+.hero-section button:hover {
+  opacity: 0.8 !important ;
+  background-color: transparent !important;
+}
+/* .modal .modal_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */

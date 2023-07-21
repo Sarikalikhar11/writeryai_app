@@ -1,0 +1,14 @@
+.card_row {
+  margin-top: -55px !important;
+}
+.card_img {
+  border-radius: 20px 20px 0px 0px !important;
+}
+.card-img1 {
+  height: 225px;
+}
+.about_section {
+  background-color: rgb(78, 76, 76);
+  opacity: 0.9;
+  color: white;
+}

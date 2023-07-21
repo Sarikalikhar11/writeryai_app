@@ -1,0 +1,23 @@
+.about_img {
+  width: 57px !important;
+  height: 50px;
+  /* margin-top: 5px; */
+  color: white;
+}
+.about_section {
+  background-color: rgb(78, 76, 76);
+  opacity: 0.9;
+  color: white;
+}
+/* .about_container {
+  position: relative;
+} */
+.about_content {
+  background-color: rgb(29, 29, 29);
+  border-radius: 30px;
+  width: 650px;
+  color: white;
+  /* position: absolute;
+  z-index: 1;
+  top: 0px; */
+}

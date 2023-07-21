@@ -1,0 +1,43 @@
+.form-control {
+  padding: 10px 90px 10px 20px;
+}
+footer {
+  background-color: #1b1642;
+  height: max-content;
+}
+footer h1 {
+  letter-spacing: 0.5rem;
+}
+.footer_form button {
+  background-color: #2ecb71;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.footer_menu {
+  margin-top: 90px;
+}
+.footer_menu li {
+  list-style-type: none;
+  line-height: 2.5rem;
+}
+.footer_menu li a {
+  color: white;
+  text-decoration: none;
+}
+.line-divider {
+  width: 100%;
+  height: 1px;
+  background-color: #7a818c;
+}
+.terms li {
+  list-style-type: none;
+}
+.terms li link {
+  list-style-type: none;
+  text-decoration: none;
+  color: gray;
+}
+.form-control {
+  padding-right: 50px;
+  width: 100% !important;
+}

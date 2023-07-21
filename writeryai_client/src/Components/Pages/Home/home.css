@@ -1,0 +1,142 @@
+.hero-section h3 {
+  font-size: 45px;
+  letter-spacing: 0.1rem;
+}
+.hero-section p {
+  font-size: 1.2rem;
+}
+.hero-section img {
+  border-radius: 30px;
+}
+.hero-section button {
+  background-color: #2ecb71 !important;
+  text-transform: capitalize;
+  letter-spacing: 0.2rem;
+}
+.hero-section button:hover {
+  opacity: 0.8 !important ;
+  background-color: transparent !important;
+}
+.card-section {
+  margin-top: 90px;
+}
+.card {
+  margin-bottom: 190px;
+  border: none;
+  box-shadow: 1px 7px 7px 1px gray;
+  border-radius: 25px !important;
+}
+.midsec-left {
+  position: relative;
+  /* background-image: url('http://localhost:3000/assets/images/midsec-img.jpeg'); */
+  height: 600px;
+  border-radius: 25px !important;
+  width: 1000px !important;
+}
+.midsec-right {
+  width: 620px;
+  background-color: white;
+  border: 1px solid gray;
+  position: absolute;
+  z-index: 1;
+  top: 1200px;
+  left: 720px;
+  padding: 35px 35px 35px 35px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1),
+    0 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.midsec-right p {
+  font-size: 18px;
+}
+.midsec1-left {
+  position: relative;
+  /* background-image: url('http://localhost:3000/assets/images/midsec-img2.jpeg'); */
+  height: 600px;
+  border-radius: 25px !important;
+  width: 1000px !important;
+  left: 280px;
+  margin-top: 120px;
+}
+.midsec1-right {
+  width: 620px;
+  background-color: white;
+  border: 1px solid gray;
+  position: absolute;
+  z-index: 1;
+  top: 1920px;
+  padding: 35px 35px 35px 35px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1),
+    0 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.midsec1-right p {
+  font-size: 18px;
+}
+.midsec3-left {
+  position: relative;
+  /* background-image: url('http://localhost:3000/assets/images/midsec-img3.png'); */
+  height: 600px;
+  border-radius: 25px !important;
+  width: 1000px !important;
+  margin-top: 120px;
+}
+.midsec3-right {
+  width: 620px;
+  background-color: white;
+  border: 1px solid gray;
+  position: absolute;
+  z-index: 1;
+  top: 2600px;
+  left: 720px;
+  padding: 35px 35px 35px 35px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1),
+    0 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.midsec3-right p {
+  font-size: 18px;
+}
+.midsec4-left {
+  position: relative;
+  /* background-image: url('http://localhost:3000/assets/images/midsec-img4.jpeg'); */
+  height: 600px;
+  border-radius: 25px !important;
+  width: 1000px !important;
+  left: 280px;
+  margin-top: 120px;
+}
+.midsec4-right {
+  width: 620px;
+  background-color: white;
+  border: 1px solid gray;
+  position: absolute;
+  z-index: 1;
+  top: 3360px;
+  padding: 35px 35px 35px 35px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1),
+    0 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.midsec4-right p {
+  font-size: 18px;
+}
+.midsec {
+  margin-bottom: 120px;
+}
+.sec-box {
+  background-image: linear-gradient(to right, #2cb97b, #255fb1);
+  padding: 130px 30px 130px 30px;
+  border-radius: 30px;
+}
+.sec-box h4 {
+  letter-spacing: 0.2rem;
+  font-size: 50px;
+}
+.sec-box button {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.secbox-container {
+  margin-bottom: 120px;
+}
